@@ -129,6 +129,9 @@ workshop is only open to people from a particular institution.
 {% include lc/who.html %}
 {% endif %}
 
+This workshop is primarily destined to the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
+Employees from other German universities may apply after this date.
+
 {% comment %}
 LOCATION
 
@@ -281,6 +284,13 @@ Edit the text to match who can attend the workshop. For instance:
 </p>
 {% endcomment %}
 
+<p class="text-center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf3gDYFl0mcrIvGzMoavV6oMpjP2SvBOz2c3E1MlXX0hsddA/viewform?usp=pp_url">
+    <button type="button" class="btn btn-info">Register for this workshop</button>
+  </a>
+</p>
+<hr/>
+
 <hr/>
 
 {% comment%}
@@ -298,6 +308,8 @@ Everyone who participates in Carpentries activities is required to conform to th
   </a>
 </p>
 <hr/>
+
+
 
 
 {% comment %}
