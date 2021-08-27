@@ -288,7 +288,6 @@ Edit the text to match who can attend the workshop. For instance:
     <button type="button" class="btn btn-info">Register for this workshop</button>
   </a>
 </p>
-<hr/>
 
 <hr/>
 
