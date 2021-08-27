@@ -45,7 +45,7 @@ The workshop will cover the following lessons:
   - Programming with Python
   - Version Control with Git
 
-This workshop is primarily destined to the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
+This workshop is primarily intended for the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
 Employees from other German universities may apply after this date.
 
 
@@ -128,9 +128,6 @@ workshop is only open to people from a particular institution.
 {% elsif site.carpentry == "lc" %}
 {% include lc/who.html %}
 {% endif %}
-
-This workshop is primarily destined to the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
-Employees from other German universities may apply after this date.
 
 {% comment %}
 LOCATION
@@ -277,12 +274,14 @@ Edit the text to match who can attend the workshop. For instance:
 - This workshop is open to the public.
 - If you are interested in attending this workshop, contact me@example.com
   for more information
-
+{% endcomment %}
+  
 <p id="who-can-attend">
     <strong>Who can attend?:</strong>
-    This workshop is open to ....
+    This workshop is primarily intended for the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
+    Employees from other German universities may apply after this date.
 </p>
-{% endcomment %}
+
 
 <p class="text-center">
   <a href="https://docs.google.com/forms/d/e/1FAIpQLSdf3gDYFl0mcrIvGzMoavV6oMpjP2SvBOz2c3E1MlXX0hsddA/viewform?usp=pp_url">
