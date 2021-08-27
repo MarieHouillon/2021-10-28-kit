@@ -46,7 +46,7 @@ The workshop will cover the following lessons:
   - Version Control with Git
 
 This workshop is primarily destined to the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
-Employees from other German universities may apply.
+Employees from other German universities may apply after this date.
 
 
 {% comment %}
