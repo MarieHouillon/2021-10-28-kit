@@ -37,19 +37,17 @@ And run 'make workshop-check' *before* committing to make sure that changes are 
 For a workshop please delete the following block until the next dashed-line
 {% endcomment %}
 
+This course aims at teaching basic lab skills for research computing. It is a hands-on training that covers the core skills needed to be productive in a small research team. Short tutorials alternate with practical exercises, and all instruction is done via live coding.
 
-<div class="alert alert-danger">
-This is the workshop template. Delete these lines and use it to
-<a href="https://carpentries.github.io/workshop-template/customization/index.html">customize</a>
-your own website. If you are running a self-organized workshop or have not put
-in a workshop request yet, please also fill in
-<a href="{{site.amy_site}}/forms/self-organised/">this workshop request form</a>
-to let us know about your workshop and our administrator may contact you if we
-need any extra information.
-If this is a pilot workshop for a new lesson,
-remember to uncomment the `pilot_lesson_site`, `pilot_pre_survey`, and `pilot_post_survey`
-fields in `_config.yml`
-</div>
+The workshop will cover the following lessons: 
+
+  - Automating tasks with the Unix Shell
+  - Programming with Python
+  - Version Control with Git
+
+This workshop is primarily destined to the members of the Karlsruhe Institute of Technology, and they will be prioritized for registration until October 1st.
+Employees from other German universities may apply.
+
 
 {% comment %}
 8< ============================= until here ==================
