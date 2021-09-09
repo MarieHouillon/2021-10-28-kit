@@ -3,8 +3,8 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "Karlsruhe Institute of Technology"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
-address: "Institute of Biomedical Engineering, Building 30.33, Fritz-Haber-Weg 1, 76131 Karlsruhe, Germany"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
+venue: "Institute of Biomedical Engineering, Karlsruhe Institute of Technology"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+address: "Seminarraum a. F. (Room 101), Building 50.35, Gotthard-Franz-Straße 7, 76131 Karlsruhe, Germany"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "de"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the workshop
 latitude: "49.012206"        # decimal latitude of workshop venue (use https://www.latlong.net/)
